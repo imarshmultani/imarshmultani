@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arsh Multani. Full stack developer from India/Italy. Founder @ Synswift infotech LLP, Developing MVPs and Innovative Enterprise level Platforms, with modern and solid tech stacks.
+Hi, I'm Arsh Multani. Full stack developer from India/Italy, with 9+ years of experience. Founder @ Synswift infotech LLP, Developing MVPs and Innovative Enterprise level Platforms, with modern and solid tech stacks. Wanna talk Tech / Discuss a project? -> Ping me on: arshsinghmultani@gmail.com
 
 
 ## 🌐 Socials:
