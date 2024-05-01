@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on ERP System, EHR System
+Hi, I'm Arsh Multani. Full stack developer from India/Italy. Founder @ Synswift infotech LLP, Developing MVPs and Innovative Enterprise level Platforms, with modern and solid tech stacks.
 
 
 ## 🌐 Socials:
@@ -12,13 +12,4 @@ Currently Working on ERP System, EHR System
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imarshmultani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imarshmultani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imarshmultani&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=imarshmultani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
